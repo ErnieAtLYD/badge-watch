@@ -1,12 +1,12 @@
 # Badge Watch
 
 Code repository for Badgewatch, a live-stream data portal from
-[ABA Justice Hack](https://www.abajusticehack.org) maintained by [Gregory](https://www.higregory.com)
-
-Try it at [BadgeWatch.abajusticehack.org](https://badgewatch.abajusticehack.org). (Link not working)
+[ABA Justice Hack](https://www.abajusticehack.org/badgewatchg) being prototyped by [Code FOr Miami](https://www.codeformiami.com)
 
 * [GitHub](https://github.com/HiGregory/BadgeWatchPrototype)
-* [Test Link](#)
+* [Requirements](https://docs.google.com/document/d/1I1_FcCZHoDbR5MEixw9z3RtooUgugUlc1HcrHhcW_Tk/edit?usp=sharing)
+* [UX Research](https://docs.google.com/document/d/1I1_FcCZHoDbR5MEixw9z3RtooUgugUlc1HcrHhcW_Tk/edit?usp=sharing)
+* [App Proof of Concept](https://marvelapp.com/befa164/screen/56545934)
 
 ## Documentation
 
