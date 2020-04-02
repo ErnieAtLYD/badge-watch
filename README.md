@@ -6,7 +6,7 @@ Code repository for Badgewatch, a live-stream data portal from
 * [GitHub](https://github.com/HiGregory/BadgeWatchPrototype)
 * [Requirements](https://docs.google.com/document/d/1I1_FcCZHoDbR5MEixw9z3RtooUgugUlc1HcrHhcW_Tk/edit?usp=sharing)
 * [UX Research](https://docs.google.com/document/d/1I1_FcCZHoDbR5MEixw9z3RtooUgugUlc1HcrHhcW_Tk/edit?usp=sharing)
-* [App Proof of Concept](badgewatch.higregory.com)
+* [App Proof of Concept](https://badgewatch.higregory.com)
 
 ## Documentation
 
